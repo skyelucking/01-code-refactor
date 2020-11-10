@@ -6,7 +6,7 @@
 <b>How:</b> 
 <ol>
  <li>  This refactored code has a cleaner underlying code structure for future changes and easy reading. </li>
- <li>Generic html tags have been replaced with semantic HTML tags and alt text has been included for images</li><br>
+ <li>Generic html tags have been replaced with semantic HTML tags and alt text has been included for images</li>
  </ol>
  <b>Why:</b> Both of these were put in place for better accessibilyt and SEO. 
 
