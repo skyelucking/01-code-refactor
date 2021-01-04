@@ -5,7 +5,7 @@
 <b> What:</b> This project is meant to update the underlying code for this website so that it uses semantic html and improves accessibilty. <br>
 
 <h2>Links:</h2>
-Deployed Application: <a href="https://skyelucking.github.io/01-code-refactor/">https://skyelucking.github.io/01-code-refactor/
+Deployed Application: <a href="https://skyelucking.github.io/01-code-refactor/">https://skyelucking.github.io/01-code-refactor/</a>
 <br>
 Git Hub Repo: <a href="https://github.com/skyelucking/01-code-refactor">https://github.com/skyelucking/01-code-refactor</a>
 
